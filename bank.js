@@ -15,7 +15,7 @@ inputbtn .addEventListener("click",function(){
 
     // step three 
     if(inputValueItem == "abdulquayumhp998@gmail.com" && inputPasswordItem == "hpabid244"){
-        window.location.href = "index.html";
+        window.location.href = "back.html";
 
     }else{
         alert("invalid user")
